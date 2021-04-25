@@ -44,6 +44,17 @@ body {
     font-size: 20px;
 } 
 
+.dislink {
+    text-decoration: underline;
+    color: var(--blue);
+    transition: all 0.4s ease;
+    font-size:24px;
+}
+
+.dislink:hover {
+    font-size: 28px;
+} 
+
 .cubelink {
     text-decoration: underline;
     color: var(--blue);
