@@ -14,6 +14,14 @@ h3 {
     font-family: "Poppins";
     color:white;
 }
+ul {
+    font-family: "Poppins";
+    color:white;
+}
+li { /*for redundancy*/
+    font-family: "Poppins";
+    color:white;
+}
 p {
     font-family: "Poppins";
     color:white;
